@@ -1,4 +1,4 @@
-namespace oop_sample.Shared.Domain.Model.ValueObjects;
+namespace ACME.OOP.Shared.Domain.Model.ValueObjects;
 
 /// <summary>
 /// Represents a Money value object containing amount and international currency code (ISO 4217).
