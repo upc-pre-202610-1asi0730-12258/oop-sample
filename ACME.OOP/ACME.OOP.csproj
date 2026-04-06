@@ -8,4 +8,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Procurement\" />
+      <Folder Include="SCM\" />
+    </ItemGroup>
+
 </Project>
